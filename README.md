@@ -50,3 +50,5 @@ Fraud_Shield is a real-time fraud detection pipeline using Kafka, Spark Streamin
 <!-- Project by Aniket Jagtap,  time: - 2026-09-08 03:02:26 -->
 
 <!-- Project by Aniket Jagtap,  time: - 2026-09-13 09:44:33 -->
+
+<!-- Project by Aniket Jagtap,  time: - 2026-09-30 03:02:14 -->
